@@ -1,0 +1,28 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "text": "Moosey Pool Party",
+      "day": "August 28th at 2:30pm",
+      "reminder": true
+    },
+    {
+      "id": 2,
+      "text": "Llamar StarDew Valley",
+      "day": "August 27th at 1:00pm",
+      "reminder": true
+    },
+    {
+      "id": 3,
+      "text": "Sushi Ninja",
+      "day": "August 26th at 7:00am",
+      "reminder": true
+    },
+    {
+      "text": "Ramen's Noodle Soup",
+      "day": "Friday",
+      "reminder": true,
+      "id": 4
+    }
+  ]
+}
